@@ -24,6 +24,8 @@ void setup()
 			updateFromFile();
 		}
 	}
+	
+	/* do other stuff here */
 }
 
 void updateFromFile()
